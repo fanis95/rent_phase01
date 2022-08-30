@@ -1,4 +1,4 @@
-//biniakou theofanis icsd13126 , afalwniaths straths icsd13018, omadiki askisi 1h fash
+//biniakou theofanis icsd13126 
 
 import java.time.LocalDate;
 import java.util.ArrayList;

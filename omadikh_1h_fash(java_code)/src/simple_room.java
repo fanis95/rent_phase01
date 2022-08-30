@@ -1,4 +1,4 @@
-//biniakou theofanis icsd13126 , afalwniaths straths icsd13018, omadiki askisi 1h fash
+//biniakou theofanis icsd13126 
 
 public class simple_room extends room{
     public simple_room(String r_id, String beds, boolean view,double vasiki_timi)
